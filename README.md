@@ -11,7 +11,7 @@ This is an Lie algebra library. More details can be found in https://github.com/
 It's worth mentioning that we adopted an old version of the library, so please use "git reset" to convert the head to to "a621ff2".
 
 ## OpenCV
-We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload and install instructions can be found at: http://opencv.org. **We use 3.4.1, but it should also work for other version at least 3.0**.
+We use [OpenCV](http://opencv.org) to manipulate images and features. Dowload and install instructions can be found at: http://opencv.org. **We use 3.4.1, but it should also work for other version at least 3.0**. Remember to install the gpu version of the library.
 
 ## Eigen3
 Download and install instructions can be found at: http://eigen.tuxfamily.org.
